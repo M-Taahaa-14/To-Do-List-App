@@ -2,9 +2,6 @@ HEAD
 # To-Do-List-App
 App to manage your daily tasks in flutter
 =======
-# To-Do-List-App
-App to manage your daily tasks in flutter
-=======
 ## 1. To Do List App
 
 A simple and responsive To Do List application built with Flutter.
