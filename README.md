@@ -2,7 +2,6 @@ HEAD
 # To-Do-List-App
 App to manage your daily tasks in flutter
 =======
-HEAD
 # To-Do-List-App
 App to manage your daily tasks in flutter
 =======
@@ -29,7 +28,7 @@ A simple and responsive To Do List application built with Flutter.
    ```bash
    flutter pub get
 
- 4. Run the app
+4. Run the app
    ```bash
    flutter run
   
