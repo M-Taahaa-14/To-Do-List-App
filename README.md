@@ -6,21 +6,19 @@ App to manage your daily tasks in flutter
 # To-Do-List-App
 App to manage your daily tasks in flutter
 =======
-# namer_app
+## 1. To Do List App
 
-A new Flutter project.
+A simple and responsive To Do List application built with Flutter.
 
-## Getting Started
+### Features:
+- **Add Daily Tasks**: Easily add tasks for the day.
+- **Mark as Done**: Mark tasks as completed when finished.
+- **Delete Tasks**: Swipe right or left to delete tasks.
+- **Responsive Design**: The app adapts to different screen sizes.
 
-This project is a starting point for a Flutter application.
+### Installation:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/M-Taahaa-14/To-Do-List-App.git
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 3740744 (first commit)
->>>>>>> 0c508e2 (first commit)
+   
