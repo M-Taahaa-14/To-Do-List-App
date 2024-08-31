@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+HEAD
 # To-Do-List-App
 App to manage your daily tasks in flutter
 =======
-<<<<<<< HEAD
+HEAD
 # To-Do-List-App
 App to manage your daily tasks in flutter
 =======
@@ -21,4 +21,16 @@ A simple and responsive To Do List application built with Flutter.
    ```bash
    git clone https://github.com/M-Taahaa-14/To-Do-List-App.git
 
+2. Navigate to the Project Repository
+   ```bash
+   cd To-Do-List-App
+   
+3. Install dependencies
+   ```bash
+   flutter pub get
+
+ 4. Run the app
+   ```bash
+   flutter run
+  
    
